@@ -89,9 +89,13 @@
                                     <div class="3u 12u$(xsmall)">
             							<a href="uploadProduct.php" class="btn btn-danger" style="text-decoration: none;">Upload Product</a>
             						</div>
+                                    
                                     <div class="3u 12u$(large)">
                                         <a href="Login/logout.php" class="btn btn-danger" style="text-decoration: none;">LOG OUT</a>
                                     </div>
+                                    <div class="3u 12u$(xsmall)">
+            							<a href="manageProducts.php" class="btn btn-danger" style="text-decoration: none;">Manage Products</a>
+            						</div>
                                 </div>
                             </center>
                         </div>
